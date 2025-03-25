@@ -128,6 +128,3 @@ docker exec -it mysql_db mysql -u root -p <database_password>
 # Accessing PostgresDb
 docker exec -it postgres_db psql -U <database_name>
 ```
-
-## Project URL
-https://roadmap.sh/projects/database-backup-utility
