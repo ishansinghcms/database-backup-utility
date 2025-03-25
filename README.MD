@@ -40,7 +40,7 @@ Database Backup Utility
 
    ```bash
    git clone git@github.com:ishansinghcms/database-backup-utility.git
-   cd RestoreMe
+   cd database-backup-utility
    ```
 
 2. Set Environment Variables
